@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "awsCost": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/path/to/awsCost",
+                "run",
+                "mcp_cost.py"
+            ]
+        }
+    }
+}

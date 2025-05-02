@@ -1,0 +1,11 @@
+[project]
+name = "awscost"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "awsume>=4.5.4",
+    "boto3>=1.38.5",
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.6.0",
+]
